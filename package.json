@@ -4,9 +4,7 @@
   "description": "Twilio Video SDK Quick Start for JavaScript",
   "main": "index.js",
   "scripts": {
-    "build": "npm-run-all build:*",
-    "clean": "npm-run-all clean:*",
-    "start": "npm run clean && npm run build && node server"
+    "start": "node server/index.js"
   },
   "repository": {
     "type": "git",
