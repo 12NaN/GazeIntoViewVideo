@@ -1,5 +1,4 @@
 @import url(https://fonts.googleapis.com/css?family=Share+Tech+Mono);
-
 div#controls {
   display: flex;
   justify-content: center;
@@ -58,7 +57,7 @@ div#controls div#preview div#local-media {
   box-sizing: border-box;
   margin: 0 auto;
   background-color: lightgrey !important;
-  background-image: url("https://static0.twilio.com/marketing/bundles/archetype/img/logo-wordmark.svg");
+  background-image: url("mascot.png");
   background-position: 50%;
   background-repeat: no-repeat;
 }
